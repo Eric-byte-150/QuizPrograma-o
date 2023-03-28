@@ -1,0 +1,23 @@
+#welcome{
+    text-align: center;
+    max-width: 500px;
+   
+}
+
+#welcome h2{
+    font-size: 30px;
+    margin-bottom: 1rem;
+    letter-spacing: 1.5px;
+    
+}
+
+#welcome p{
+    color: rgb(240, 240, 240);
+    margin-bottom: 1.5rem;
+    margin-top: 1rem;
+    letter-spacing: 1px;
+}
+
+#welcome img{
+    margin-top: 2rem;
+}
